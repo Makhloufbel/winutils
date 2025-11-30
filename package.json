@@ -1,5 +1,6 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
+  "version": "0.0.1",
   "name": "winutils",
   "title": "Winutils",
   "description": "Launches ChrisTitusTech's WinUtil bootstrap from GitHub.",
